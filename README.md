@@ -1,7 +1,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samedsemihs&show_icons=true&locale=en&layout=compact" alt="samedsemihs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samedsemihs&" alt="samedsemihs" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samedsemihs" alt="samedsemihs" /></a> </p>
 
 
